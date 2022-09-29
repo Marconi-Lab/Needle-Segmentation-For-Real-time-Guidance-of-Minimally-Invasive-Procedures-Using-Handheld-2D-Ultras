@@ -1,4 +1,4 @@
-# Needle-Segmentation-For-Real-time-Guidance-of-Minimally-Invasive-Procedures-Using-Handheld-2D-Ultras
+# Needle-Segmentation-For-Real-time-Guidance-of-Minimally-Invasive-Procedures-Using-Handheld-2D-Ultrasound
 This repository contains supplementary material for the paper
 
 **Description:** 
